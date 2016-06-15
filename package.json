@@ -1,7 +1,7 @@
 {
   "name": "ngUpload-forked",
-  "version": "0.5.18",
-  "description": "An AngularJS Upload File Directive forked from ngUpload in bower",
+  "version": "0.5.19",
+  "description": "An AngularJS Upload File Directive originally hosted at bower",
   "main": "index.js",
   "directories": {
     "example": "examples",
