@@ -1,5 +1,7 @@
 # ngUpload
 
+[NOT MAINTAINED PLEASE REFER TO [ngUpload](https://www.npmjs.com/package/ngUpload)]
+
 An AngularJS file upload directive. Demo [http://ngupload.herokuapp.com](http://ngupload.herokuapp.com)
 
 ## 0.5.18 - for updates see CHANGELOG.md
